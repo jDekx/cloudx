@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="index.js" type="NodeJSConfigurationType"
+      nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/src">
+    <envs>
+      <env name="PORT" value="8080"/>
+    </envs>
+    <method v="2"/>
+  </configuration>
+</component>
